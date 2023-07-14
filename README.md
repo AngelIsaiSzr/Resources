@@ -1,8 +1,25 @@
 # Resources
-Este repositorio contiene recursos útiles y necesarios para mis proyectos. Encontrarás códigos, imagenes, etiquetas, plantillas, librerías, funciones, videos e información general que utilizo habitualmente en mis diversos proyectos.
+Este repositorio contiene recursos de utilidad que uso constantemente en mis proyectos, incluyendo:
 
-La intención es reunir todo esto en un solo lugar para facilitar el acceso y la reutilización de manera eficiente, evitando así la duplicación o reinvención de la rueda.
+- Código reutilizable de utilidad general 
+- Plantillas y ejemplos 
+- Librerías y snippets útiles  
+- Imágenes, íconos y otros assets   
+- Enlaces a videos, tutoriales y documentación útil
 
-Los recursos se organizarán por carpetas con nombres claros y descriptivos. Se actualizará regularmente conforme voy encontrando o creando nuevos elementos reutilizables que agregar al conjunto.
+La idea es tener todo centralizado aquí para facilitar el acceso y reutilización de manera eficiente, evitando duplicación o reinvención innecesaria.   
 
-Espero que también resulte útil para otros desarrolladores, así que cualquier pull request, contribución o sugerencia de nuevos recursos es bienvenida.
+Los recursos están organizados en carpetas bien nombradas para una rápida localización.
+
+Este repositorio se actualiza constantemente conforme voy encontrando o creando nuevos recursos reutilizables.
+
+¡Espero que también te resulte útil! Los pull requests con nuevas sugerencias de recursos son bienvenidos.
+
+## Carpetas 
+
+- images
+- videos
+- icons
+- assets
+- documentacion 
+- etc.
