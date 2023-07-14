@@ -21,5 +21,5 @@ Este repositorio se actualiza constantemente conforme voy encontrando o creando 
 - videos
 - icons
 - assets
-- documentacion 
+- documentation
 - etc.
